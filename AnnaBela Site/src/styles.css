@@ -1,0 +1,39 @@
+body {
+    background: #d2d2c1 url(./img/fundo.png);
+    font: 16px arial, helvetica, sans-serif;
+}
+
+#imagemTitulo {
+    width: 900px;
+}
+
+.paginas {
+    background: #c5c5b2;
+    border: 1px solid;
+    padding: 18px;
+    width: 900px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a {
+    color: #4b566a;
+    padding: 5px;
+
+}
+
+.texto {
+    background-color: #e8e8e8;
+    padding: 10px;
+    width: 900px;
+    margin-top: 30px;
+}
+
+.direitos{
+    text-align: center;
+}
+
+.imagens {
+    border: 8px, #c5c5b2, solid;
+}
+
